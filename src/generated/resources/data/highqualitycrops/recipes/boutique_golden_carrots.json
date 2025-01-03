@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:gold_nugget"
+    },
+    "S": {
+      "item": "highqualitycrops:boutique_carrots"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "OXO",
+    "OSO",
+    "OXO"
+  ],
+  "result": {
+    "item": "highqualitycrops:boutique_golden_carrots"
+  },
+  "show_notification": true
+}

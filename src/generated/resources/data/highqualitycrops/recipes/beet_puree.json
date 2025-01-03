@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:bowl"
+    },
+    "S": {
+      "item": "highqualitycrops:boutique_beetroot"
+    },
+    "X": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XSX",
+    "OOO"
+  ],
+  "result": {
+    "count": 3,
+    "item": "highqualitycrops:beet_puree"
+  },
+  "show_notification": true
+}

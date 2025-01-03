@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "highqualitycrops:boutique_potato"
+    },
+    "X": {
+      "item": "highqualitycrops:boutique_wheat"
+    }
+  },
+  "pattern": [
+    "XXX",
+    " O "
+  ],
+  "result": {
+    "count": 3,
+    "item": "highqualitycrops:potato_buns"
+  },
+  "show_notification": true
+}

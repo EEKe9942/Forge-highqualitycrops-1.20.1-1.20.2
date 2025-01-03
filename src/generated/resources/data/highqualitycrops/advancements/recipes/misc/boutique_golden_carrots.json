@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_boutique_golden_carrots": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "highqualitycrops:boutique_golden_carrots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "highqualitycrops:boutique_golden_carrots"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_boutique_golden_carrots",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "highqualitycrops:boutique_golden_carrots"
+    ]
+  },
+  "sends_telemetry_event": false
+}

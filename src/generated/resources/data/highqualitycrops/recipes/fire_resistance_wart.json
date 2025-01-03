@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:magma_cream"
+    },
+    "X": {
+      "item": "highqualitycrops:boutique_nether_wart"
+    }
+  },
+  "pattern": [
+    "XOX"
+  ],
+  "result": {
+    "item": "highqualitycrops:fire_resistance_wart"
+  },
+  "show_notification": true
+}

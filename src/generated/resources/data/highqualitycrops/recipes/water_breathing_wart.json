@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:pufferfish"
+    },
+    "X": {
+      "item": "highqualitycrops:boutique_nether_wart"
+    }
+  },
+  "pattern": [
+    " X ",
+    "XOX",
+    " X "
+  ],
+  "result": {
+    "count": 4,
+    "item": "highqualitycrops:water_breathing_wart"
+  },
+  "show_notification": true
+}

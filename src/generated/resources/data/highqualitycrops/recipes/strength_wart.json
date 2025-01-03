@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:blaze_powder"
+    },
+    "X": {
+      "item": "highqualitycrops:boutique_nether_wart"
+    }
+  },
+  "pattern": [
+    "XOX"
+  ],
+  "result": {
+    "count": 2,
+    "item": "highqualitycrops:strength_wart"
+  },
+  "show_notification": true
+}

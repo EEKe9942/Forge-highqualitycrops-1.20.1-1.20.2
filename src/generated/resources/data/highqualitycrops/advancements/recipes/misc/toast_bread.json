@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "highqualitycrops:toast_bread"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_toast_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "highqualitycrops:toast_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_toast_bread",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "highqualitycrops:toast_bread"
+    ]
+  },
+  "sends_telemetry_event": false
+}

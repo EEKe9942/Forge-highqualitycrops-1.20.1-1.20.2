@@ -1,0 +1,10 @@
+{
+  "entries": [
+    "highqualitycrops:boutique_wheat_from_wheat",
+    "highqualitycrops:boutique_nether_wart_from_nether_wart",
+    "highqualitycrops:boutique_potato_from_potatoes",
+    "highqualitycrops:boutique_beetroot_from_beetroots",
+    "highqualitycrops:boutique_carrot_from_carrot"
+  ],
+  "replace": false
+}
