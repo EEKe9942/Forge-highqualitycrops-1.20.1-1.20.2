@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:wheat"
+    },
+    "S": {
+      "item": "highqualitycrops:boutique_nether_wart"
+    }
+  },
+  "pattern": [
+    "OSO",
+    "OOO"
+  ],
+  "result": {
+    "count": 2,
+    "item": "highqualitycrops:nether_wart_cookies"
+  },
+  "show_notification": true
+}

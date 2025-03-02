@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:wheat"
+    },
+    "S": {
+      "item": "highqualitycrops:boutique_sweet_berries"
+    }
+  },
+  "pattern": [
+    "OSO",
+    "OOO"
+  ],
+  "result": {
+    "count": 4,
+    "item": "highqualitycrops:berry_cookies"
+  },
+  "show_notification": true
+}
